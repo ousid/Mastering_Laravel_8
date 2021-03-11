@@ -24,7 +24,7 @@
 
 ## Structure And Template
 
-- [ ] Laravel Explain Prohject Structure
+- [ ] Laravel Explain Project Structure
 - [ ] Template Engine In Depth 
 - [ ] Blade Template Engine
 
