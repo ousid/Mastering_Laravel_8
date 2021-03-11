@@ -1,4 +1,4 @@
-![Mastering Laravel](https://elzero.org/laravek-8.png)
+![Mastering Laravel](https://elzero.org/laravel.png)
 
 # Mastering Laravel 8
 
